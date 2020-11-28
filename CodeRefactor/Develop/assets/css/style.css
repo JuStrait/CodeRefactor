@@ -24,11 +24,12 @@ body {
     color: #d9dcd6;
 }
 
+/* added tics to the Calibri font */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* added tics to the Calibri font */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,7 +84,7 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
@@ -134,43 +136,52 @@ p {
     max-width: 150px;
 }
 
+/* added tics to the Calibri font */
+/* adjusted pixel height to fit the page correctly */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 320px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* added tics to the Calibri font */
+/* adjusted pixel height to fit the page correctly */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 320px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* added tics to the Calibri font */
+/* adjusted pixel height to fit the page correctly */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 320px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* adjusted pixel height for proper alignment */
 .search-engine-optimization img {
-    max-height: 200px;
+    max-height: 220px;
 }
 
+/* adjusted pixel height for proper alignment */
 .online-reputation-management img {
-    max-height: 200px;
+    max-height: 220px;
 }
 
+/* adjusted pixel height for proper alignment */
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 220px;
 }
 
 .search-engine-optimization h2 {
