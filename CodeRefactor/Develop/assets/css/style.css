@@ -24,7 +24,7 @@ p {
 }
 
 
-/* class operators semantically ordered */
+/* class operators alphabetically ordered */
 
 
 /* added tics to the Calibri font */
@@ -143,7 +143,8 @@ p {
 }
 
 /* added tics to the Calibri font */
-.header div {
+/* changed from div to nav */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -151,11 +152,13 @@ p {
     font-size: 20px;
 }
 
-.header div ul {
+/* changed from div to nav */
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+/* changed from div to nav */
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
