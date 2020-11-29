@@ -1,45 +1,13 @@
+/*I grouped each type of operator together and then organized them alphebitically or semantically order */
+
+
+/* global operators alphabetically ordered */
+
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
-
-body {
-    background-color: #d9dcd6;
-}
-
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
-/* added tics to the Calibri font */
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header div ul {
-    list-style-type: none;
-}
-
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
 }
 
 a {
@@ -47,34 +15,17 @@ a {
     text-decoration: none;
 }
 
+body {
+    background-color: #d9dcd6;
+}
+
 p {
     font-size: 16px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/* class operators semantically ordered */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 /* added tics to the Calibri font */
 .benefits {
@@ -136,67 +87,20 @@ p {
     max-width: 150px;
 }
 
-/* added tics to the Calibri font */
-/* adjusted pixel height to fit the page correctly */
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 320px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
-/* added tics to the Calibri font */
-/* adjusted pixel height to fit the page correctly */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 320px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-/* added tics to the Calibri font */
-/* adjusted pixel height to fit the page correctly */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 320px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* adjusted pixel height for proper alignment */
-.search-engine-optimization img {
-    max-height: 220px;
-}
-
-/* adjusted pixel height for proper alignment */
-.online-reputation-management img {
-    max-height: 220px;
-}
-
-/* adjusted pixel height for proper alignment */
-.social-media-marketing img {
-    max-height: 220px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 .footer {
@@ -209,3 +113,117 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* adjusted contrast for better visibility */
+.header h1 .seo {
+    color: #d9dcd693;
+}
+
+/* added tics to the Calibri font */
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* added tics to the Calibri font */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* added tics to the Calibri font */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* added tics to the Calibri font */
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
