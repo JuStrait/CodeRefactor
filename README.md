@@ -20,7 +20,5 @@
     : repo contains quality README with screenshot and deployment link
     
 ![projectpage](./docs/images/snip1.jpg "project page")
-![projectpage](./docs/images/snip2.jpg "project page")
-![projectpage](./docs/images/snip3.jpg "project page")
 ![projectcode](./docs/images/snip4.jpg "project code")
 ![projectcss](./docs/images/snip5.jpg "project css")
