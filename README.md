@@ -1,10 +1,10 @@
 # CodeRefactor
 
-This is my first homework assignment for my coding bootcamp through KU. 
+## This is my first homework assignment for my coding bootcamp through KU. 
 
-We were given preexisting code and instructed to refactor it. 
+### We were given existing code and instructed to refactor it. 
 
-Specifically we are to:
+** Specifically we are to: **
 
     : organze the html and css semantically
     : check for and correct any mistakes in the html and css
@@ -19,3 +19,8 @@ Specifically we are to:
     : repo has multiple descriptive commit messages 
     : repo contains quality README with screenshot and deployment link
     
+![projectpage](\docs\images\snip1.jpg)
+![projectpage](\docs\images\snip2.jpg)
+![projectpage](\docs\images\snip3.jpg)
+![projectpage](\docs\images\snip4.jpg)
+![projectpage](\docs\images\snip5.jpg)
