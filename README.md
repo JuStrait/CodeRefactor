@@ -19,8 +19,8 @@
     : repo has multiple descriptive commit messages 
     : repo contains quality README with screenshot and deployment link
     
-![projectpage](docs\images\snip1.jpg)
-![projectpage](docs\images\snip2.jpg)
-![projectpage](docs\images\snip3.jpg)
-![projectpage](docs\images\snip4.jpg)
-![projectpage](docs\images\snip5.jpg)
+![projectpage](./docs\images\snip1.jpg)
+![projectpage](./docs\images\snip2.jpg)
+![projectpage](./docs\images\snip3.jpg)
+![projectpage](./docs\images\snip4.jpg)
+![projectpage](./docs\images\snip5.jpg)
