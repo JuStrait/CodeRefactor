@@ -1,8 +1,8 @@
 # CodeRefactor
 
-## This is my first homework assignment for my coding bootcamp through KU. 
+### This is my first homework assignment for my coding bootcamp through KU. 
 
-### We were given existing code and instructed to refactor it. 
+ We were given existing code and instructed to refactor it. 
 
 ** Specifically we are to: **
 
@@ -20,7 +20,10 @@
     : repo contains quality README with screenshot and deployment link
     
 Here is the link to the deployed page: https://justrait.github.io/CodeRefactor/
+
 Here is the link to the repo: https://github.com/JuStrait/CodeRefactor
+
+
 ![projectpage](./docs/images/snip1.jpg "project page")
 ![projectcode](./docs/images/snip4.jpg "project code")
 ![projectcss](./docs/images/snip5.jpg "project css")
