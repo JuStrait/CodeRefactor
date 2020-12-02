@@ -19,6 +19,8 @@
     : repo has multiple descriptive commit messages 
     : repo contains quality README with screenshot and deployment link
     
+Here is the link to the deployed page: https://justrait.github.io/CodeRefactor/
+Here is the link to the repo: https://github.com/JuStrait/CodeRefactor
 ![projectpage](./docs/images/snip1.jpg "project page")
 ![projectcode](./docs/images/snip4.jpg "project code")
 ![projectcss](./docs/images/snip5.jpg "project css")
